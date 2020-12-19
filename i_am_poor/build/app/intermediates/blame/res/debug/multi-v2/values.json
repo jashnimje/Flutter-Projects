@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Programming Language\\Flutter\\Flutter_Project\\i_am_poor\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\Programming Language\\Flutter\\Flutter_Project\\i_am_poor\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "F:\\Programming Language\\Flutter\\Flutter_Project\\i_am_poor\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "288"
+                    }
+                }
+            ]
+        }
+    ]
+}
